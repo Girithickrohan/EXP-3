@@ -53,7 +53,7 @@ Tabulation:2
 
 <img width="546" height="268" alt="image" src="https://github.com/user-attachments/assets/66877f61-6f8c-4f35-964e-d25f94df5c37" />
 
-<img width="1476" height="835" alt="Screenshot 2025-09-29 140650" src="https://github.com/user-attachments/assets/b38b39bd-e127-4a09-a6f3-be6d695cbda8" />
+![img](https://github.com/Girithickrohan/EXP-3/blob/main/2.png)
 
 ## RESULT:
 Thus the staircase wiring is connected and tested.
