@@ -42,7 +42,7 @@ Tabulation:1
 
 <img width="572" height="283" alt="image" src="https://github.com/user-attachments/assets/936788ca-d888-4fd7-b66b-78b043bdd116" />
 
-[!img](https://github.com/Girithickrohan/EXP-3/blob/main/1%20(2).png)
+![img](https://github.com/Girithickrohan/EXP-3/blob/main/1%20(2).png)
 	
 ## Cross connection:
 CIRCUIT DIAGRAM:
